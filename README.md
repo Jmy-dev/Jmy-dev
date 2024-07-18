@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with expertise in building web applications u
 - 📧 **Email:** [jmydev1@gmail.com](mailto:jmydev1@gmail.com)
 - 📄 **Resume:** [View My Resume](https://drive.google.com/drive/folders/1HjnQUzBYV0EHcrgVJ6IEJJThtZr2-qk4?usp=sharing)
 - 🌐 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/ahmed-yaser-abd-el-razik/)
-<!--- ... 📝 **Portfolio:** [Check out my Portfolio](https://karimkhaled.me) -->
+
 
 ## About Me
 
